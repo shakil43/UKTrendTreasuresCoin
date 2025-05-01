@@ -1,20 +1,17 @@
 {
   "name": "UKTrend Treasures Coin",
   "symbol": "UKTTC",
-  "description": "UKTrend Treasures Coin (UKTTC) is a reward token issued on the Solana blockchain. Earned by shopping at UK Trend Treasures, customers can use UKTTC to unlock exclusive discounts, promotions, and potential future perks. UKTTC symbolizes our commitment to rewarding loyal customers with cutting-edge blockchain technology.",
-  "image": "https://raw.githubusercontent.com/shakil43/UKTrendTreasuresCoin/main/UKTTC%20LOGO.png",
-  "external_url": "https://uktrendtreasures.co.uk",
-  "seller_fee_basis_points": 0,
-  "attributes": [],
-  "properties": {
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/shakil43/UKTrendTreasuresCoin/main/UKTTC%20LOGO.png",
-        "type": "image/png"
-      }
-    ]
-  },
+  "description": "UKTTC is the official token of Uktrendtreasures.co.uk — a growing Web3 e-commerce platform.",
+  "image": "https://ipfs.io/ipfs/bafkreidkwnyzcr2ulbv3yb3f4agxbiotmhrykx2xs5em3d7ign7d3troqy",
+  "decimals": 9,
   "extensions": {
-    "website": "https://uktrendtreasures.co.uk"
+    "website": "https://uktrendtreasures.co.uk",
+    "twitter": "https://x.com/shs_syl?s=21",
+    "telegram": "https://t.me/UktrendTreasursCoin",
+    "telegram_chat": "https://t.me/+q5WXciAFBiMyMmE0",
+    "discord": "https://discord.gg/FMe9TxKV",
+    "youtube": "https://m.youtube.com/@UKtrendTreasures",
+    "instagram": "https://www.instagram.com/sabbirhussainshakil",
+    "facebook": "https://www.facebook.com/share/1BZs9s4deM"
   }
 }
